@@ -2,6 +2,7 @@
 Quick &amp; Dirty Example of how to setup a proxy to locally test rest request from SapUI5 avoiding CORS
 
 Open 3 consoles.
+
 On console #1: cd into "frontend" run "npm run start"
 
 On console #2: cd into "backend" run "node index.js"
